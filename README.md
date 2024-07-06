@@ -1,7 +1,7 @@
-![Header](./https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
 <h1 align="center">Hi 👋, I'm Sujal Sinha</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
-<img align="left" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" alt="animated-gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal20031218&label=Profile%20views&color=0e75b6&style=flat" alt="sujal20031218" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujal20031218" alt="sujal20031218" /></a> </p>
